@@ -1,3 +1,18 @@
+#QUESTION:
+Input Format
+
+9
+3 4 3 4 1 2 3 1 2
+
+Constraints
+
+6<=n<=12
+
+Output Format
+
+2 2 3 2
+    
+#CODE:
 import java.io.*;
 import java.util.*;
 
