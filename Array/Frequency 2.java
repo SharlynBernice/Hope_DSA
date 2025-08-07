@@ -13,7 +13,11 @@ Constraints
 4 ≤ n ≤ 20
 -100 ≤ array[i] ≤ 100
 INPUT: [-2 1 0] 
-
+OUTPUT: 
+-2 - 1
+0 - 1
+1 - 1
+    
 Output Format
 
 For each unique stone type, print the stone number, followed by a hyphen (-), then the count of how many times it appeared.
